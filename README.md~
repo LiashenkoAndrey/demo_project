@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Hello a new branch!
 this is a main!
 #Second commit!
@@ -7,3 +8,4 @@ this is a feature
 =======
 # Hello
 ### World!
+>>>>>>> dbf0132f17a8309521d9060c17d8958a0fbd7147
